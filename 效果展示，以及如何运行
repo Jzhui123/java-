@@ -1,0 +1,4 @@
+# 先跑server，再跑App，App支持多开，app多开需要手动设置，右上角运行下拉箭头，editconfig->modify options->allow multiple
+
+
+
